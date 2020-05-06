@@ -1,0 +1,55 @@
+body{
+	margin-left: 20px;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+ button{
+	  font-size: 15px;
+	  padding:5px;
+	  border-radius:5px;
+	  margin:20px;
+	  text-align:center;
+	  margin-left: 50px;
+ }
+ 
+ #nav{
+	 
+	 width: 950px;
+	 float:left;
+	 font-size: 16px;
+	 height:590px;
+	 border-right:1px #ccc solid;
+ }
+ #wholepage{
+	float:left;
+	margin-top: 0px;
+	width: 430px;
+	margin-left:20px;
+	font-size: 16px;
+ }
+ 
+ #container{
+	 width: 1490px;
+	 height:690px;
+	 margin:0px;
+ }
+ #footer{
+	 height:20px;
+	 clear:both;
+	 background-color: #FFF5EE;
+	 text-align:center;
+ }
+ #header{
+	 background-color: #FFF5EE;
+	 height:60px;
+	 width: 1490px;
+	 margin-bottom:10px;
+	text-align:center;
+	padding-top:1px;
+	padding-bottom:5px;
+ }
+ .dTime{
+	 border-bottom: 1px #ccc solid;
+	 padding:20px;
+ }
